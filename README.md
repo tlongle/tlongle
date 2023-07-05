@@ -6,7 +6,7 @@
 
 ---
 ✨ I'm a frontend engineer, graphic designer, music producer, and follow a slew of other hobbies, like gaming and photography.
-I started programming in 2020, learning with C# and WinForms, and eventually learned ASP.NET in school, which made me enjoy
+💻 I started programming in 2020, learning with C# and WinForms, and eventually learned ASP.NET in school, which made me enjoy
 web programming even more than regular apps.
 
 <!--
