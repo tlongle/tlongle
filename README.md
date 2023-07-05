@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tlongle/tlongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
