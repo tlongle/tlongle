@@ -2,6 +2,13 @@
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+ <!-- About section -->
+
+---
+✨ I'm a frontend engineer, graphic designer, music producer, and follow a slew of other hobbies, like gaming and photography.
+I started programming in 2020, learning with C# and WinForms, and eventually learned ASP.NET in school, which made me enjoy
+web programming even more than regular apps.
+
 <!--
 **tlongle/tlongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
