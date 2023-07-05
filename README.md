@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Tomás :D
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,6 +9,8 @@
 💻 I started programming in 2020, learning with C# and WinForms, and eventually learned ASP.NET in school, which made me enjoy
 web programming even more than regular apps.
 
+---
+### Tools I work with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
