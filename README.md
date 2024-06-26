@@ -2,7 +2,6 @@
 
  <!-- About section -->
 
----
 ✨ Frontend engineer, [graphic designer](https://behance.com/tomsgil2), [music producer](https://linktr.ee/teenagepowder), and follow a slew of other hobbies, like gaming and photography.<br>
 💻 I started programming in 2020, learning with C#, and eventually learned ASP.NET in school, which made me enjoy
 web programming even more than regular apps.
@@ -17,7 +16,7 @@ web programming even more than regular apps.
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
-
+---
 My GitHub stats:
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
