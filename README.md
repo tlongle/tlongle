@@ -19,7 +19,8 @@ web programming even more than regular apps.
 
 ---
 
-My GitHub stats:
+**GitHub Stats:**
+I have not been using this enough, lol
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
