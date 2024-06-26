@@ -1,4 +1,5 @@
-### Hi there, my name is Tomás :D
+# My name is Tomás :)
+### I usually go by Tommy though,
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlongle&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
