@@ -8,9 +8,10 @@ web programming even more than regular apps. <br>
 📚 Currently studying IT Engineering @ [ISTEC Lisbon](https://istec.pt)
 
 ---
-### Tools I work with:
+### Tools & technologies I currently work with:
 <p>
  
+  [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
