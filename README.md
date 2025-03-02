@@ -2,7 +2,7 @@
 
  <!-- About section -->
 
-✨ Frontend Engineer, [Graphic Designer](https://behance.com/tomsgil2), [Music Producer](https://linktr.ee/teenagepowder), cybersecurity fanatic and I follow a slew of other hobbies, like gaming and photography.<br>
+✨ Frontend Engineer, [Graphic Designer](https://behance.com/tomsgil2), [Music Producer](https://linktr.ee/tmslongle), cybersecurity fanatic and I follow a slew of other hobbies, like gaming and photography.<br>
 💻 I started programming in 2020, learning with C#, eventually learning ASP.NET in school, which made me enjoy
 web programming even more than regular apps. <br>
 📚 Currently studying IT Engineering @ [ISTEC Lisbon](https://istec.pt)
