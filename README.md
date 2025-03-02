@@ -1,8 +1,8 @@
-# My name is Tomás Longle, I'm a...
+# Call me Tommy, I'm a...
 
  <!-- About section -->
 
-✨ Frontend engineer, [graphic designer](https://behance.com/tomsgil2), [music producer](https://linktr.ee/teenagepowder), and I follow a slew of other hobbies, like gaming and photography.<br>
+✨ Frontend engineer, [Graphic Designer](https://behance.com/tomsgil2), [Music Producer](https://linktr.ee/teenagepowder) and I follow a slew of other hobbies, like gaming and photography.<br>
 💻 I started programming in 2020, learning with C#, eventually learning ASP.NET in school, which made me enjoy
 web programming even more than regular apps. <br>
 📚 Currently studying IT Engineering @ [ISTEC Lisbon](https://istec.pt)
