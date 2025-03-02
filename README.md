@@ -2,9 +2,10 @@
 
  <!-- About section -->
 
-✨ Frontend engineer, [graphic designer](https://behance.com/tomsgil2), [music producer](https://linktr.ee/teenagepowder), and follow a slew of other hobbies, like gaming and photography.<br>
-💻 I started programming in 2020, learning with C#, and eventually learned ASP.NET in school, which made me enjoy
+✨ Frontend engineer, [graphic designer](https://behance.com/tomsgil2), [music producer](https://linktr.ee/teenagepowder), and I follow a slew of other hobbies, like gaming and photography.<br>
+💻 I started programming in 2020, learning with C#, eventually learning ASP.NET in school, which made me enjoy
 web programming even more than regular apps.
+📚 Currently studying IT Engineering @ ISTEC, Lisbon
 
 ---
 ### Tools I work with:
