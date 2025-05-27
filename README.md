@@ -1,10 +1,9 @@
-# Call me Tommy, I'm a...
+# I'm Tommy, I'm a...
 
  <!-- About section -->
 
-✨ Frontend Engineer, [Graphic Designer](https://behance.com/tomsgil2), [Music Producer](https://linktr.ee/tmslongle), cybersecurity fanatic and I follow a slew of other hobbies, like gaming and photography.<br>
-💻 I started programming in 2020, learning with C#, eventually learning ASP.NET in school, which made me enjoy
-web programming even more than regular apps. <br>
+✨ Programmer, [Graphic Designer](https://behance.com/tomsgil2), [Music Producer](https://linktr.ee/tmslongle), cybersecurity fanatic and I follow a slew of other hobbies, like gaming and casual photography.<br>
+💻 I started programming in 2019, learning with C#, which made me enjoy programming and problem solving. <br>
 📚 Currently studying IT Engineering @ [ISTEC Lisbon](https://istec.pt)
 
 ---
