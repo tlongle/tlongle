@@ -36,9 +36,8 @@
 ---
 
 ## 🌟 Featured Projects
-
-[![Ceenth](https://github-readme-stats.vercel.app/api/pin/?username=tlongle&repo=ceenth&theme=cobalt)](https://github.com/tlongle/ceenth)
-
+  [![Ceenth](https://github-readme-stats.vercel.app/api/pin/?username=tlongle&repo=ceenth&theme=cobalt)](https://github.com/tlongle/ceenth)
+  
 ---
 
 ## 📫 Let's Connect
