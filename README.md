@@ -13,15 +13,14 @@
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff" alt="Tauri" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" alt="Expo" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" alt="shadcn/ui" />
 </p>
 
 ---
@@ -38,8 +37,7 @@
 
 ## 🌟 Featured Projects
 
-<!-- Add your best projects here when ready -->
-*Coming soon! Currently working on some exciting projects...*
+[![Ceenth](https://github-readme-stats.vercel.app/api/pin/?username=tlongle&repo=ceenth&theme=cobalt)](https://github.com/tlongle/ceenth)
 
 ---
 
