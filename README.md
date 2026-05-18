@@ -1,7 +1,7 @@
 <h1 align="center">hey, I'm Tommy</h1>
 <h3 align="center">a passionate "right-to-own" sysadmin, student, music producer, designer, and a bunch more</h3>
 
-- i'm currently studying for **CCNA**
+- i'm currently studying for my **CCNA** and almost into the Cisco Incubator Program
 
 - i’m currently learning **advanced networking, linux and system administration**
 
